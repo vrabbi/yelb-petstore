@@ -8,6 +8,7 @@ spec:
   type: service
   lifecycle: beta
   owner: team-a
+  system: yelb
   providesApis:
   - yelb-petstore-api
 ---
